@@ -1,6 +1,6 @@
 <template>
 <div id="app">
-  <h1>Original QR Code Generator</h1>
+  <h1>Generate a QR code with your image!</h1>
 
   <h2>Select an image</h2>
   <button><label for="image">Select</label></button>
