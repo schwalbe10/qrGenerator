@@ -6,7 +6,7 @@ This is a sample that has a link to my GitHub profile.
 
 ![sample](./sample.png)
 
-\* I recommend using this app by a web browser on PCs or Safari on iPhone.
+\* I recommend using this app by your PC if you want to download it.
 
 # Build Setup
 ```bash
