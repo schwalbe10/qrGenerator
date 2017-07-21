@@ -1,8 +1,10 @@
+# Introduction
+
+[Generate a QR code with your image by Vue.js!]( https://speakerdeck.com/schwalbe10/generate-a-qr-code-with-your-image-by-vue-dot-js)
+
 # Demo
 
 You can generate a QR code with your image from [here](https://schwalbe10-qrgenerator.herokuapp.com/)!
-
-<script async class="speakerdeck-embed" data-id="20ba95942dee44459a98ef3249386005" data-ratio="1.41241379310345" src="//speakerdeck.com/assets/embed.js"></script>
 
 This is a sample that has a link to my GitHub profile.
 
